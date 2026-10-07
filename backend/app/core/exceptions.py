@@ -1,0 +1,2 @@
+class AFDEException(Exception):
+    pass
